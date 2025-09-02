@@ -53,3 +53,6 @@ Thumbs.db
 
 # Deployment artifacts
 public/
+
+# Local Netlify folder
+.netlify

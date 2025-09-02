@@ -1,6 +1,6 @@
 [build]
-  command = "npm install --legacy-peer-deps && npm run build"
-  publish = "dist/ertjill-portfolio"
+  command = "npm install --legacy-peer-deps && npm run build-portfolio"
+  publish = "dist/ertjill-portfolio/browser"
 
 
 [[redirects]]
