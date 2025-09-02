@@ -1,5 +1,5 @@
 [build]
-  command = "npm install --force && ng build --configuration production"
+  command = "npm install --legacy-peer-deps && npm run build"
   publish = "dist/ertjill-portfolio"
 [build.environment]
   NODE_VERSION = "18"
